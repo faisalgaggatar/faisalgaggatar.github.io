@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(green, black); }
+
+
+
+img {
+  width: 30%;
+  display: block;
+  margin: auto;
+}
+
+.subheadings{
+       text-align: center;
+}
